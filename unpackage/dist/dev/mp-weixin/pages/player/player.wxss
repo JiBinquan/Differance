@@ -1,0 +1,7 @@
+
+.imshow{
+	width: 750rpx;
+	height: 1625rpx;
+	/*height: 1459rpx;*/
+}
+

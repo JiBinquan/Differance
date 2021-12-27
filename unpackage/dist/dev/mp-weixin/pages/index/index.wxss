@@ -1,0 +1,33 @@
+.page {
+  width: 750rpx;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+}
+.page .buttons {
+  border-radius: 20px;
+  width: 500rpx;
+  opacity: 0.6;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #e7e7e7;
+  color: black;
+}
+.page .setbtn {
+  border-radius: 25px;
+  width: 135rpx;
+  height: 75rpx;
+  background-color: transparent;
+  border: 0;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-size: 15px;
+  opacity: 0.3;
+  margin-right: 10px;
+}
+.content {
+  width: 750rpx;
+  height: 1500rpx;
+  display: block;
+  margin: 0 auto;
+}
+

@@ -1,0 +1,1 @@
+<view><image class="imshow" src="{{this.npath}}"></image></view>
