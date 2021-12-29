@@ -34,15 +34,27 @@
 
 可以自定义的设置延时摄影切换速度、相机蒙版透明度和水印内容等参数。
 
-<img src="static/4.png" alt="输入图片说明" style="zoom:50%;" />
+<img src="static/5.png" alt="输入图片说明" style="zoom:20%;" />
 
 ## 三、安装
 
 得益于HbuilderX这个强大的开发工具，在应用开发完成后可以直接一键云打包为APK，想直接体验的同学可以直接下载apk安装包，一键安装进行体验。
 
+（虽然上面就有安装包，但是你也可以扫描这个二维码）
+![输入图片说明](https://gitee.com/ji-binquan/differance/blob/master/static/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+
+
 想要进行调试和修改的同学可以下载源代码文件，通过HbuilderX进行查看和运行。
 
-## 四、更新日志
+## 四、视频展示
+### 宣传片
+https://www.bilibili.com/video/BV1Q34y1B7NT?share_source=copy_web
+### 作品展示
+https://www.bilibili.com/video/BV1Ar4y1m72X?spm_id_from=333.999.0.0
+
+
+
+## 五、更新日志
 ### 0.75 (2021.12.20)
 
 1. 稍微美化了一下设置界面
@@ -63,3 +75,4 @@
 ### 0.3 (2021.12.8)
 
 实现三个基础功能，发布基础版本
+
